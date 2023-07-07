@@ -97,8 +97,8 @@ const routes = [
     component: () => import ('../views/Realizaciones/ArtetecView.vue')
   },
   {
-    path: '/arte',
-    name: 'arte',
+    path: '/ruinas',
+    name: 'ruinas',
     component: () => import ('../views/Museos/RuinasView.vue')
   },
   {

@@ -50,7 +50,7 @@
                                 <router-link to="/lhistoricos" class="dropdown-item">Lugares Historicos</router-link>
                             </li>
                             <li>
-                                <router-link to="/arte" class="dropdown-item">Ruinas y Lugares Arqueologicos</router-link>
+                                <router-link to="/ruinas" class="dropdown-item">Ruinas y Lugares Arqueologicos</router-link>
                             </li>
                         </ul>
                     </li>
