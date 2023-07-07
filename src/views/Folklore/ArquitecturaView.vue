@@ -12,7 +12,7 @@
         <div class="row">
             <div class="mt-5 col-6 text-center">
                 <div class="containerImgp1">
-                    <img src="../../assets/img/imgFolklore/imgArquitectura/imagenp2.jpg" alt="" />
+                    <img class="img-fluid" src="../../assets/img/imgFolklore/imgArquitectura/imagenp2.jpg" alt="" />
                 </div>
             </div>
             <div class="mt-5 mb-1 col-6 text-center">
@@ -46,14 +46,14 @@
             </div>
             <div class="mt-5 mb-1 col-6 text-center">
                 <div class="containerImgp1">
-                    <img src="../../assets/img/imgFolklore/imgArquitectura/imagenp3.jpg" alt="" />
+                    <img class="img-fluid" src="../../assets/img/imgFolklore/imgArquitectura/imagenp3.jpg" alt="" />
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="mt-5 col-6 text-center">
                 <div class="containerImgp1">
-                    <img src="../../assets/img/imgFolklore/imgArquitectura/imagenp2.jpg" alt="" />
+                    <img class="img-fluid" src="../../assets/img/imgFolklore/imgArquitectura/imagenp2.jpg" alt="" />
                 </div>
             </div>
             <div class="mt-5 mb-1 col-6 text-center">
@@ -86,7 +86,7 @@
             </div>
             <div class="mt-5 mb-1 col-6 text-center">
                 <div class="containerImgp1">
-                    <img src="../../assets/img/imgFolklore/imgArquitectura/imagenp3.jpg" alt="" />
+                    <img src="../../assets/img/imgFolklore/imgArquitectura/imagenp3.jpg" alt="" class="img-fluid"/>
                 </div>
             </div>
         </div>

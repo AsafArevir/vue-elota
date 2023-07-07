@@ -43,10 +43,14 @@
                         <ul class="dropdown-menu navColorFondo">
                             <li><a class="dropdown-item" href="#">Museos</a></li>
                             <li><a class="dropdown-item" href="#">Deportivos</a></li>
-                            <li><a class="dropdown-item" href="#">Obras de arte</a></li>
-                            <li><a class="dropdown-item" href="#">Lugares históricos</a></li>
                             <li>
-                                <a class="dropdown-item" href="#">Ruinas y lugares arqueológicos</a>
+                                <router-link to="/arte" class="dropdown-item">Obras de Arte</router-link>
+                            </li>
+                            <li>
+                                <router-link to="/lhistoricos" class="dropdown-item">Lugares Historicos</router-link>
+                            </li>
+                            <li>
+                                <router-link to="/arte" class="dropdown-item">Ruinas y Lugares Arqueologicos</router-link>
                             </li>
                         </ul>
                     </li>
@@ -72,21 +76,11 @@
                             Realizaciones técnicas
                         </a>
                         <ul class="dropdown-menu navColorFondo">
-                            <li>
-                                <router-link to="/mineria" class="dropdown-item">Explotaciones Mineras</router-link>
-                            </li>
-                            <li>
-                                <router-link to="/agropecuario" class="dropdown-item">Exploatciones Agropecuarias</router-link>
-                            </li>
-                            <li>
-                                <router-link to="/industria" class="dropdown-item">Explotaciones Industriales</router-link>
-                            </li>
-                            <li>
-                                <router-link to="/artetec" class="dropdown-item">Obras de Arte y Tecnica</router-link>
-                            </li>
-                            <li>
-                                <router-link to="/centros" class="dropdown-item">Centros Cientificos y Tecnologicos</router-link>
-                            </li>
+                            <li><router-link to="/mineria" class="dropdown-item">Explotaciones Mineras</router-link></li>
+                            <li><router-link to="/agropecuario" class="dropdown-item">Exploatciones Agropecuarias</router-link></li>
+                            <li><router-link to="/industria" class="dropdown-item">Explotaciones Industriales</router-link></li>
+                            <li><router-link to="/artetec" class="dropdown-item">Obras de Arte y Tecnica</router-link></li>
+                            <li><router-link to="/centros" class="dropdown-item">Centros Cientificos y Tecnologicos</router-link></li>
                         </ul>
                     </li>
 

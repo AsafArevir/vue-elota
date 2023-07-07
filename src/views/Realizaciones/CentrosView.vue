@@ -1,6 +1,6 @@
 <template>
     <section>
-        <div class="background-image-centroscyt text-center mb-5">
+        <div class="background-image-centroscyt text-center mb-5 container-fluid">
             <h1 class="text-overlay">Centros Cientificos y Tecnologicos</h1>
         </div>
     </section>

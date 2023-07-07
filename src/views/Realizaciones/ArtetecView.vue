@@ -1,6 +1,6 @@
 <template>
     <section>
-        <div class="background-image-artetec text-center mb-5">
+        <div class="background-image-artetec text-center mb-5 container-fluid">
             <h1 class="text-overlay">Obras de Arte y Tecnica</h1>
         </div>
     </section>

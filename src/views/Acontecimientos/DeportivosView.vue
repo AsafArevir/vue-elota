@@ -15,8 +15,8 @@
             <h1>Descripcion general del espectaculo</h1>
 
             <div class="image-container">
-                <img src="../../assets/img/imgAcontecimientos/fut.png" class="image-big" alt="Imagen grande">
-                <img src="../../assets/img/imgAcontecimientos/beis.png" class="image-small" alt="Imagen pequeña">
+                <img src="../../assets/img/imgAcontecimientos/fut.png" class="image-big img-fluid" alt="Imagen grande">
+                <img src="../../assets/img/imgAcontecimientos/beis.png" class="image-small img-fluid" alt="Imagen pequeña">
                 <p class="image-text mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo

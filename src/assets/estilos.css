@@ -1104,23 +1104,92 @@ body {
     padding-bottom: 43%;
     /* Establece la relación de aspecto de la imagen */
 }
+
 /*
 .anchoCompleto {
-    width: 100%; /* Ajusta el ancho según tus necesidades *//*
-    height: 700; /* Reemplaza "300px" con la altura deseada *//*
-    margin: 0 auto; /* Centrar el carrusel horizontalmente *//*
-    overflow: hidden; /* Ocultar contenido que exceda la altura fija *//*
+    width: 100%; /* Ajusta el ancho según tus necesidades */
+/*
+    height: 700; /* Reemplaza "300px" con la altura deseada */
+/*
+    margin: 0 auto; /* Centrar el carrusel horizontalmente */
+/*
+    overflow: hidden; /* Ocultar contenido que exceda la altura fija */
+/*
 }
 
 .carousel-inner {
-    height: 50%; /* Establecer la altura del carrusel interno al 100% *//*
+    height: 50%; /* Establecer la altura del carrusel interno al 100% */
+/*
 }
 
 .carousel-inner .carousel-item img {
-    object-fit: cover; /* Ajustar las imágenes para que cubran toda la altura del carrusel *//*
-    height: 20%; /* Establecer la altura de las imágenes al 100% del carrusel *//*
-    width: 100%; /* Ajustar el ancho de las imágenes al 100% del carrusel *//*
+    object-fit: cover; /* Ajustar las imágenes para que cubran toda la altura del carrusel */
+/*
+    height: 20%; /* Establecer la altura de las imágenes al 100% del carrusel */
+/*
+    width: 100%; /* Ajustar el ancho de las imágenes al 100% del carrusel */
+/*
 }*/
 
 
 /*--------------------------------Fin Realizaciones------------------------------------------------*/
+
+/*---------------------------------Museos----------------------------------------------------------*/
+
+.background-image-ruinas {
+    background-image: url("img/imgMuseos/imgRuinas/ruinas.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 43%;
+    /* Establece la relación de aspecto de la imagen */
+}
+
+.background-lhistoricos {
+    background-image: url("img/imgMuseos/imgLhistoricos/historicos.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 43%;
+    /* Establece la relación de aspecto de la imagen */
+}
+
+.background-arte {
+    background-image: url("img/imgMuseos/imgArte/arte.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 43%;
+    /* Establece la relación de aspecto de la imagen */
+}
+
+/*---------------------------------Fin Museos------------------------------------------------------*/
+
+/*----------------------------------Footer-------------------------------------*/
+footer {
+    background-color: #1d1d1d;
+}
+
+.margen {
+    margin-top: 100px;
+}
+
+.footerEnlaces a {
+    text-decoration: none;
+
+}
+
+.footerRedes img {
+    width: 30px;
+}
+
+/*------------------Fin Footer------------------------------------------------*/

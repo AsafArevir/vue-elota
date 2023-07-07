@@ -18,19 +18,19 @@
         </div>
         <div class="row">
             <div class="mb-3 p-4">
-                <div class="containerImgf1">
+                <div class="containerImgf1 img-fluid">
                     <h2>Lugar</h2>
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="mt-1 mb-2 col-6 col-md-4">
-                <div class="containerImgf2">
+                <div class="containerImgf2 img-fluid">
                     <h2>Fecha</h2>
                 </div>
             </div>
             <div class="mt-1 mb-2 ml-5 col-12 col-md-8">
-                <div class="containerImgf3">
+                <div class="containerImgf3 img-fluid">
                     <h2 class="text-md-right">Duración</h2>
                 </div>
             </div>
@@ -59,8 +59,8 @@
                 </p>
             </div>
             <div class="ml-5 mb-4 col-6 p-4">
-                <div class="containerImgf4">
-                    <img src="../../assets/img/imgFolklore/imgFerias/imagenf5.jpg" alt="" />
+                <div class="containerImgf4 img-fluid">
+                    <img class="img-fluid" src="../../assets/img/imgFolklore/imgFerias/imagenf5.jpg" alt="" />
                 </div>
             </div>
         </div>

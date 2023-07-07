@@ -95,6 +95,21 @@ const routes = [
     path: '/artetec',
     name: 'artetec',
     component: () => import ('../views/Realizaciones/ArtetecView.vue')
+  },
+  {
+    path: '/arte',
+    name: 'arte',
+    component: () => import ('../views/Museos/RuinasView.vue')
+  },
+  {
+    path: '/lhistoricos',
+    name: 'lhistoricos',
+    component: () => import ('../views/Museos/LhistoricosView.vue')
+  },
+  {
+    path: '/arte',
+    name: 'arte',
+    component: () => import ('../views/Museos/ArteView.vue')
   }
 
 ]
