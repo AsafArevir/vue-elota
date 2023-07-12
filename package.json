@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "start": "vue-cli-service start"
+    "start": "vue-cli-service build"
   },
   "dependencies": {
     "aframe": "^1.4.2",
