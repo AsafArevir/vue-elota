@@ -1,5 +1,5 @@
 <template>
 	<a-scene>
-		<a-sky src="../assets/img/3dImage.jpg"></a-sky>
+		<a-sky src="../assets/img/imagenTD.jpg"></a-sky>
 	</a-scene>
 </template>
