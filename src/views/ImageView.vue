@@ -6,6 +6,5 @@
 		</a-assets>
 		<a-sky src="#sky"></a-sky>
 		<a-entity link=" <router-link to='/'></router-link>; title: My Homepage; image: #homeThumbnail"></a-entity>
-
 	</a-scene>
 </template>
