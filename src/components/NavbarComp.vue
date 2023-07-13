@@ -86,6 +86,7 @@
                             <li><router-link to="/artisticos" class="dropdown-item">Artisticos</router-link></li>
                             <li><router-link to="/deportivos" class="dropdown-item">Deportivos</router-link></li>
                             <li><router-link to="/mas" class="dropdown-item">Otros</router-link></li>
+                            <li><router-link to="/image" class="dropdown-item">360 Image</router-link></li>
                         </ul>
                     </li>
                 </ul>

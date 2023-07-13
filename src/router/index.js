@@ -170,6 +170,11 @@ const routes = [
     path: '/mountain',
     name: 'mountain',
     component: () => import ('../views/Sitios/MountainView.vue')
+  },
+  {
+    path: '/image',
+    name: 'image',
+    component: () => import ('../views/ImageView.vue')
   }
 
 ]
