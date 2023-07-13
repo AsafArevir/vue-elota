@@ -3,7 +3,7 @@
 		<a-assets>
     			<img id="sky" src="../assets/img/imagenTD.jpg">
   		</a-assets>
-	  	<a-sky src="#sky"></a-sky>
+	  	<a-sky color="#ECECEC"></a-sky>
 		<a-entity position="0 1.6 -3" scale="0.5 0.5 0.5" look-controls></a-entity>
 		<a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9" shadow></a-box>
 		<a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E" shadow></a-sphere>
