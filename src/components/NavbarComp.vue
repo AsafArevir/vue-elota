@@ -15,24 +15,18 @@
                             Sitios naturales
                         </a>
                         <ul class="dropdown-menu navColorFondo">
-                            <li><a class="dropdown-item" href="#">Montañas</a></li>
-                            <li><a class="dropdown-item" href="#">Planicies</a></li>
-                            <li><a class="dropdown-item" href="#">Costas</a></li>
-                            <li>
-                                <a class="dropdown-item" href="#">Lagos, Lagunas y esteros</a>
-                            </li>
-                            <li><a class="dropdown-item" href="#">Ríos</a></li>
-                            <li><a class="dropdown-item" href="#">Caídas de agua</a></li>
-                            <li><a class="dropdown-item" href="#">Grutas y cavernas</a></li>
-                            <li>
-                                <a class="dropdown-item" href="#">Lugares observación de flora y fauna</a>
-                            </li>
-                            <li>
-                                <a class="dropdown-item" href="#">Lugares de caza y pesca</a>
-                            </li>
-                            <li><a class="dropdown-item" href="#">Caminos pintorescos</a></li>
-                            <li><a class="dropdown-item" href="#">Termas</a></li>
-                            <li><a class="dropdown-item" href="#">Parques Nacionales</a></li>
+                            <li><router-link to="/mountain" class="dropdown-item">Montañas</router-link></li>
+                            <li><router-link to="/planicies" class="dropdown-item">Planicies</router-link></li>
+                            <li><router-link to="/costas" class="dropdown-item">Costas</router-link></li>
+                            <li><router-link to="/lagos" class="dropdown-item">Lagos, Lagunas y Esteros</router-link></li>
+                            <li><router-link to="/rios" class="dropdown-item">Rios</router-link></li>
+                            <li><router-link to="/cascadas" class="dropdown-item">Caidas de agua</router-link></li>
+                            <li><router-link to="/grutascavernas" class="dropdown-item">Grutas y Cavernas</router-link></li>
+                            <li><router-link to="/florafauna" class="dropdown-item">Lugares de Observacion de Flora y Fauna</router-link></li>
+                            <li><router-link to="/cazapesca" class="dropdown-item">Lugares de Caza y Pesca</router-link></li>
+                            <li><router-link to="/caminos" class="dropdown-item">Caminos Pintorescos</router-link></li>
+                            <li><router-link to="/termas" class="dropdown-item">Termas</router-link></li>
+                            <li><router-link to="/parques" class="dropdown-item">Parques Nacionales</router-link></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
@@ -42,7 +36,6 @@
                         </a>
                         <ul class="dropdown-menu navColorFondo">
                             <li><a class="dropdown-item" href="#">Museos</a></li>
-                            <li><a class="dropdown-item" href="#">Deportivos</a></li>
                             <li>
                                 <router-link to="/arte" class="dropdown-item">Obras de Arte</router-link>
                             </li>

@@ -110,6 +110,66 @@ const routes = [
     path: '/arte',
     name: 'arte',
     component: () => import ('../views/Museos/ArteView.vue')
+  },
+  {
+    path: '/parques',
+    name: 'parques',
+    component: () => import ('../views/Sitios/ParquesView.vue')
+  },
+  {
+    path: '/termas',
+    name: 'termas',
+    component: () => import ('../views/Sitios/TermasView.vue')
+  },
+  {
+    path: '/caminos',
+    name: 'caminos',
+    component: () => import ('../views/Sitios/CaminosView.vue')
+  },
+  {
+    path: '/cazapesca',
+    name: 'cazapesca',
+    component: () => import ('../views/Sitios/CazaPescaView.vue')
+  },
+  {
+    path: '/florafauna',
+    name: 'florafauna',
+    component: () => import ('../views/Sitios/FloraFaunaView.vue')
+  },
+  {
+    path: '/grutascavernas',
+    name: 'grutascavernas',
+    component: () => import ('../views/Sitios/GrutasCavernasView.vue')
+  },
+  {
+    path: '/cascadas',
+    name: 'cascadas',
+    component: () => import ('../views/Sitios/CascadasView.vue')
+  },
+  {
+    path: '/rios',
+    name: 'rios',
+    component: () => import ('../views/Sitios/RiosView.vue')
+  },
+  {
+    path: '/lagos',
+    name: 'lagos',
+    component: () => import ('../views/Sitios/LagosView.vue')
+  },
+  {
+    path: '/costas',
+    name: 'costas',
+    component: () => import ('../views/Sitios/CostasView.vue')
+  },
+  {
+    path: '/planicies',
+    name: 'planicies',
+    component: () => import ('../views/Sitios/PlaniciesView.vue')
+  },
+  {
+    path: '/mountain',
+    name: 'mountain',
+    component: () => import ('../views/Sitios/MountainView.vue')
   }
 
 ]
